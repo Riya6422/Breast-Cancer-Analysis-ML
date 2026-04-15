@@ -30,8 +30,7 @@ Performed:
 
 ## 🤖 Machine Learning Models
 Used:
-- Linear Regression (R² = 0.81)
-- Decision Tree Regressor
+- Linear Regression
 - Random Forest Regressor
 
 ## 🔍 Key Insights
