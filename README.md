@@ -47,9 +47,6 @@ Used:
 - Seaborn
 - Scikit-learn
 
-## 📄 Research Paper
-Included IEEE-format research paper in the repository.
-
 ## 🚀 Conclusion
 This project demonstrates how data science can be used in healthcare to analyze and predict survival outcomes.
 
